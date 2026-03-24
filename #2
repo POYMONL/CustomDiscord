@@ -7761,13 +7761,6 @@ html:only-child > head + body div.app_a3002d > div.app__160d8::before {
 	background-image: unset !important;
 	margin-left: calc(50% - calc(var(--custom-guild-list-width) + var(--space-8)));
 }
-html:only-child > head + body div.bar_c38106 > div.title_c38106::before {
-	width: 70px !important;
-	height: 36px !important;
-	display: inline !important;
-	position: fixed !important;
-	left: 10px !important;
-}
 html:only-child > head + body div.bar_c38106 > div.title_c38106::after {
 	width: 280px !important;
 	height: 36px !important;
